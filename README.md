@@ -1,3 +1,4 @@
+# Mikroislemciler1donemodevi
 8086 Assembly Array Processing ProjectBu proje, 8086 Assembly dili kullanılarak bir tam sayı dizisi üzerinde istatistiksel analizler yapan bir alt seviye programlama çalışmasıdır.
 Program; dizi içerisindeki pozitif/negatif sayıları, sıfırları, toplamları ve ekstrem değerleri (min/max) hesaplamak üzere tasarlanmıştır.
 
