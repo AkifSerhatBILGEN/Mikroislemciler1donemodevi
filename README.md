@@ -1,0 +1,1 @@
+# Mikroislemciler1donemodevi
